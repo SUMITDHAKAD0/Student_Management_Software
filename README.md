@@ -6,11 +6,11 @@ login to their portal using unique id and password.
 
 I have used following module in this project
 
-tkinter 
-PIL (PILLOW)
-datetime
-time
-sqlite3 (Database)
-math 
-os
+tkinter, 
+PIL (PILLOW),
+datetime,
+time,
+sqlite3 (Database),
+math, 
+os.
 
